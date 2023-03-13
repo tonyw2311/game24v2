@@ -9,5 +9,7 @@ Inital game created using jQuery. This updated 24 Game was created using the MER
 * 24 game with a score system, leaderboard and 5 min timelimit
 
 ### Demo
-https://user-images.githubusercontent.com/101535944/224823937-28bc0c63-fc05-489b-9d87-0a5051cd71af.mov
+https://user-images.githubusercontent.com/101535944/224826632-e2fbd1c1-49fc-4d40-8ff2-c1a09ddae937.mov
+
+
 
