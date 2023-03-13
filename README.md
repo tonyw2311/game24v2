@@ -1,4 +1,4 @@
-# game24v2
+# 24 Game v2
 24 is a card game puzzle using four integers to make 24 using addition, subtraction, multiplication, and division.
 
 Inital game created using jQuery. This updated 24 Game was created using the MERN stack with a React Framework for the frontend, Express and Node for the backend, and MongoDB for the database.
